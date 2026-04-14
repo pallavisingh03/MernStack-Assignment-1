@@ -24,7 +24,7 @@ Skills.map(skill => console.log(skill));
 
 // OBJECT
 const studentProfile = {
-  name: "Pallavi singh",
+  name: "SHEKHAR ",
   age: 21
 };
 
