@@ -3,7 +3,7 @@ import ProfileCard from "./ProfileCard";
 function App() {
   return (
     <div>
-      <ProfileCard name="Pallavi Developer " />
+      <ProfileCard name="Shekhar Developer " />
     </div>
   );
 }

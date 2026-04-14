@@ -1,5 +1,5 @@
 // VARIABLES
-let devName = "Pallavi singh";
+let devName = "Shekhar";
 const devAge = 21;
 
 // FUNCTION
@@ -19,7 +19,7 @@ for (let i = 1; i <= 5; i++) {
 }
 
 // ARRAY
-const Skills = ["React", "JS", "Node"];
+const Skills = ["Express", "JS", "Angular"];
 Skills.map(skill => console.log(skill));
 
 // OBJECT
